@@ -8,6 +8,7 @@ import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.inventory.EquipmentSlotType;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Items;
+import net.minecraft.util.SoundCategory;
 import net.minecraft.util.SoundEvents;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
@@ -30,7 +31,6 @@ public class ClientEventSubscriber {
                 if (block == Blocks.STONE.getDefaultState()) {
                     EquipmentSlotType slot = player.getHeldItemMainhand().getEquipmentSlot();
                     int ingotCount = player.getHeldItemMainhand().getCount();
-                    player.playSound(SoundEvents.BLOCK_ANVIL_BREAK, 100, 1);
                     player.getHeldItemMainhand().setCount(ingotCount-1);
                     player.inventory.addItemStackToInventory(new ItemStack(Items.REDSTONE));
                 }

@@ -46,7 +46,7 @@ public class Redstonequip {
     public static final ItemGroup TAB = new ItemGroup("Redstonequip") {
         @Override
         public ItemStack createIcon() {
-            return new ItemStack(Items.REDSTONE);
+            return new ItemStack(RedstoneItems.REDSTONE_INGOT.get());
         }
     };
 

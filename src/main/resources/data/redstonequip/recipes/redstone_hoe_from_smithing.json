@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_hoe"
+  },
+  "addition": {
+    "item": "redstonequip:redstone_ingot"
+  },
+  "result": {
+    "item": "redstonequip:redstone_hoe"
+  }
+}
