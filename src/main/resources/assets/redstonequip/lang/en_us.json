@@ -10,5 +10,6 @@
   "item.redstonequip.redstone_chestplate": "Redstone Chestplate",
   "item.redstonequip.redstone_leggings": "Redstone Leggings",
   "item.redstonequip.redstone_boots": "Redstone Boots",
+  "block.redstonequip.redstone_metal_block": "Block of Redstone Metal",
   "itemGroup.Redstonequip": "Redstone Equipment"
 }

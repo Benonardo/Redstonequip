@@ -10,5 +10,6 @@
   "item.redstonequip.redstone_chestplate": "Redstoneharnisch",
   "item.redstonequip.redstone_leggings": "Redstonebeinschutz",
   "item.redstonequip.redstone_boots": "Redstonestiefel",
+  "block.redstonequip.redstone_metal_block": "Redstone-Metallblock",
   "itemGroup.Redstonequip": "Redstoneausrüstung"
 }

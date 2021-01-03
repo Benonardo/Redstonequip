@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "redstonequip:redstone_ingot"
+    }
+  },
+  "result": {
+    "item": "redstonequip:redstone_metal_block",
+    "count": 1
+  }
+}

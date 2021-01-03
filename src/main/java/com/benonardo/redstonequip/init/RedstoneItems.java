@@ -1,6 +1,7 @@
 package com.benonardo.redstonequip.init;
 
 import com.benonardo.redstonequip.Redstonequip;
+import com.benonardo.redstonequip.blocks.BlockItemBase;
 import com.benonardo.redstonequip.items.ItemBase;
 import com.benonardo.redstonequip.util.enums.RedstoneArmorMaterial;
 import com.benonardo.redstonequip.util.enums.RedstoneToolTier;
@@ -28,6 +29,7 @@ public class RedstoneItems {
     public static final RegistryObject<ShearsItem> REDSTONE_SHEARS = ITEMS.register("redstone_shears",
             () -> new ShearsItem(new Item.Properties().group(Redstonequip.TAB)));
 
+
     // Armor
     public static final RegistryObject<ArmorItem> REDSTONE_HELMET = ITEMS.register("redstone_helmet",
             () -> new ArmorItem(RedstoneArmorMaterial.REDSTONE, EquipmentSlotType.HEAD, new Item.Properties().group(Redstonequip.TAB)));
@@ -38,7 +40,12 @@ public class RedstoneItems {
     public static final RegistryObject<ArmorItem> REDSTONE_BOOTS = ITEMS.register("redstone_boots",
             () -> new ArmorItem(RedstoneArmorMaterial.REDSTONE, EquipmentSlotType.FEET, new Item.Properties().group(Redstonequip.TAB)));
 
+    // Block Items
+    public static final RegistryObject<Item> REDSTONE_METAL_BLOCK = ITEMS.register("redstone_metal_block",
+            () -> new BlockItemBase(RedstoneBlocks.REDSTONE_METAL_BLOCK.get()));
+
     // Items
     public static final RegistryObject<Item> REDSTONE_INGOT = ITEMS.register("redstone_ingot",
             () -> new ItemBase());
+
 }

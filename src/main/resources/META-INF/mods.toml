@@ -3,12 +3,12 @@ loaderVersion="[28,)"
 license="The MIT License (MIT)"
 [[mods]]
 modId="redstonequip"
-version="1.0.0"
+version="1.0.2"
 displayName="Redstonequip"
 #updateJSONURL="http://myurl.me/"
 #displayURL="http://example.com/"
 #logoFile="logo.png"
-credits="Thanks to TechnoVision (https://bit.ly/3pdXx58) for teaching me how to code a mod. Thanks to sashafiesta (github.com/sashafiesta) for translating the mod into Russian" #optional
+credits="Thanks to TechnoVision (https://bit.ly/3pdXx58) for teaching me how to code a mod. Thanks to sashafiesta (https://github.com/sashafiesta) for translating the mod into Russian." #optional
 # A text field displayed in the mod UI
 authors="Benonardo" #optional
 # The description text for the mod (multi line!) (#mandatory)

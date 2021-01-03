@@ -1,9 +1,9 @@
 package com.benonardo.redstonequip;
 
+import com.benonardo.redstonequip.init.RedstoneBlocks;
 import com.benonardo.redstonequip.init.RedstoneItems;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.Items;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
@@ -27,6 +27,8 @@ public class Redstonequip {
 
         // Register all items
         RedstoneItems.ITEMS.register(FMLJavaModLoadingContext.get().getModEventBus());
+        // Register all blocks
+        RedstoneBlocks.BLOCKS.register(FMLJavaModLoadingContext.get().getModEventBus());
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
