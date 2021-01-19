@@ -1,3 +1,5 @@
+### WARNING: THIS MOD IS AWFUL, DON'T LOOK AT THE CODE!
+
 **Why Redstone Equipment?**
 
 You find Redstone frequently in caves and don't know what to do with it.
