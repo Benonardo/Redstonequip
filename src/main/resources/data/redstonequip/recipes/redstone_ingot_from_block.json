@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redstonequip:redstone_metal_block"
+    }
+  ],
+  "result": {
+    "item": "redstonequip:redstone_ingot",
+    "count": 9
+  }
+}

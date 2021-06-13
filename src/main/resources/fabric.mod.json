@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "redstonequip",
+  "version": "${version}",
+
+  "name": "Redstonequip",
+  "description": "Mod that adds Redstone Equipment to Minecraft, translated by sashafiesta",
+  "authors": [
+    "Benonardo"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/redstonequip",
+    "sources": "https://github.com/Benonardo/Redstonequip",
+    "issues": "https://github.com/Benonardo/Redstonequip/issues"
+  },
+
+  "license": "The MIT License (MIT)",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.benonardo.redstonequip.Redstonequip"
+    ]
+  },
+  "mixins": [],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "item.redstonequip.redstone_ingot": "Редстоуновый слиток",
+  "item.redstonequip.redstone_sword": "Редстоуновый меч",
+  "item.redstonequip.redstone_pickaxe": "Редстоуновая кирка",
+  "item.redstonequip.redstone_axe": "Редстоуновый топор",
+  "item.redstonequip.redstone_shovel": "Редстоуновая лопата",
+  "item.redstonequip.redstone_hoe": "Редстоуновая мотыга",
+  "item.redstonequip.redstone_shears": "Редстоуновые ножницы",
+  "item.redstonequip.redstone_helmet": "Редстоуновый шлем",
+  "item.redstonequip.redstone_chestplate": "Редстоуновый нагрудник",
+  "item.redstonequip.redstone_leggings": "Редстоуновые поножи",
+  "item.redstonequip.redstone_boots": "Редстоуновые ботинки",
+  "block.redstonequip.redstone_metal_block": "Блок редстоунового металла",
+  "itemGroup.Redstonequip": "Redstone Equipment"
+}

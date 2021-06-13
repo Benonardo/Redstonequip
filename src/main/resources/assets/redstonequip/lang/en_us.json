@@ -1,0 +1,15 @@
+{
+  "item.redstonequip.redstone_ingot": "Redstone Ingot",
+  "item.redstonequip.redstone_sword": "Redstone Sword",
+  "item.redstonequip.redstone_pickaxe": "Redstone Pickaxe",
+  "item.redstonequip.redstone_axe": "Redstone Axe",
+  "item.redstonequip.redstone_shovel": "Redstone Shovel",
+  "item.redstonequip.redstone_hoe": "Redstone Hoe",
+  "item.redstonequip.redstone_shears": "Redstone Shears",
+  "item.redstonequip.redstone_helmet": "Redstone Helmet",
+  "item.redstonequip.redstone_chestplate": "Redstone Chestplate",
+  "item.redstonequip.redstone_leggings": "Redstone Leggings",
+  "item.redstonequip.redstone_boots": "Redstone Boots",
+  "block.redstonequip.redstone_metal_block": "Block of Redstone Metal",
+  "itemGroup.Redstonequip": "Redstone Equipment"
+}

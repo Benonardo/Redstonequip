@@ -1,0 +1,15 @@
+{
+  "item.redstonequip.redstone_ingot": "Redstonebarren",
+  "item.redstonequip.redstone_sword": "Redstoneschwert",
+  "item.redstonequip.redstone_pickaxe": "Redstonespitzhacke",
+  "item.redstonequip.redstone_axe": "Redstoneaxt",
+  "item.redstonequip.redstone_shovel": "Redstoneschaufel",
+  "item.redstonequip.redstone_hoe": "Redstonehacke",
+  "item.redstonequip.redstone_shears": "Redstoneschere",
+  "item.redstonequip.redstone_helmet": "Redstonehelm",
+  "item.redstonequip.redstone_chestplate": "Redstoneharnisch",
+  "item.redstonequip.redstone_leggings": "Redstonebeinschutz",
+  "item.redstonequip.redstone_boots": "Redstonestiefel",
+  "block.redstonequip.redstone_metal_block": "Redstone-Metallblock",
+  "itemGroup.Redstonequip": "Redstoneausrüstung"
+}
